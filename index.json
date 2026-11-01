@@ -1,5 +1,12 @@
 {
   "version": 1,
+  "cadence": {
+    "about": "Every reading behind these files is renewed on a window, in days, and the window is enforced rather than promised: the gate named below fails the build when a reading is older than its own. A register somebody else maintains is on the shortest, Official Journal text is on the longest because its wording is separately held to its act corrigendum by corrigendum, and everything else is on the standard.",
+    "registerDays": 90,
+    "standardDays": 180,
+    "officialJournalDays": 365,
+    "gate": "scripts/check-readings-fresh.mjs"
+  },
   "stability": "Within version 1: a dataset keeps its slug, a file keeps its name, and a field keeps its name and meaning. Fields and datasets are added, and a removal or a change of meaning raises the version. Served at https://getstandardos.com/datasets/, CORS open, cached for an hour.",
   "licence": "CC BY 4.0",
   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
