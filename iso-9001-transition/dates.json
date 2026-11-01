@@ -1,0 +1,40 @@
+{
+  "readOn": "2026-09-28",
+  "current": {
+    "edition": "ISO 9001:2026",
+    "number": 6,
+    "publishedOn": "2026-09-16"
+  },
+  "withdrawn": {
+    "edition": "ISO 9001:2015",
+    "number": 5,
+    "withdrawn": true
+  },
+  "transition": [
+    {
+      "date": "2027-03-31",
+      "key": "bodiesReadyBy",
+      "what": "Accreditation bodies ready to assess against the new edition"
+    },
+    {
+      "date": "2027-06-30",
+      "key": "declarationBy",
+      "what": "Certification bodies submit their transition declaration to their accreditation body"
+    },
+    {
+      "date": "2027-09-30",
+      "key": "decisionsBy",
+      "what": "Accreditation body transition decisions completed"
+    },
+    {
+      "date": "2028-03-31",
+      "key": "newCertificationsOnlyFrom",
+      "what": "New and initial accredited certifications issued only to the 2026 edition"
+    },
+    {
+      "date": "2029-09-30",
+      "key": "certificatesBy",
+      "what": "Existing ISO 9001:2015 certificates transitioned or they expire"
+    }
+  ]
+}

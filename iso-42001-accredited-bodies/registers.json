@@ -1,0 +1,228 @@
+{
+  "readOn": "2026-09-25",
+  "calibratedWith": "ISO/IEC 27001",
+  "totals": {
+    "bodies": 12,
+    "countries": 3,
+    "zero": 12,
+    "unanswered": 12
+  },
+  "registers": [
+    {
+      "country": "AT",
+      "accreditation_body": "Akkreditierung Austria",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "search over accreditation documents; 27001 returns three bodies"
+    },
+    {
+      "country": "BE",
+      "accreditation_body": "BELAC",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the register lists the schemes it accredits, and there is no AI management system scheme"
+    },
+    {
+      "country": "BG",
+      "accreditation_body": "BAS",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "filters by field, certificate number, city and name, not by standard"
+    },
+    {
+      "country": "CY",
+      "accreditation_body": "CYS-CYSAB",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the published table has no management system certification body at all, only product and inspection"
+    },
+    {
+      "country": "CZ",
+      "accreditation_body": "CAI",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "fulltext search in scopes; 27001 returns bodies"
+    },
+    {
+      "country": "DE",
+      "accreditation_body": "DAkkS",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "searches bodies rather than scopes; the scope is a PDF per body"
+    },
+    {
+      "country": "DK",
+      "accreditation_body": "DANAK",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "free text returns nothing for a standard number, though its business areas include information security and no AI area"
+    },
+    {
+      "country": "EE",
+      "accreditation_body": "EAK",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the keyword search returns no rows for 27001 either"
+    },
+    {
+      "country": "ES",
+      "accreditation_body": "ENAC",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "keyword search over scopes; 27001 returns the information security bodies"
+    },
+    {
+      "country": "FI",
+      "accreditation_body": "FINAS",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "free text over competence areas; 27001 returns six bodies"
+    },
+    {
+      "country": "FR",
+      "accreditation_body": "COFRAC",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the site search reaches news and documents rather than the register"
+    },
+    {
+      "country": "GR",
+      "accreditation_body": "ESYD",
+      "answer": "bodies",
+      "bodies": 4,
+      "named": "AXIA CERT; Theodynamiki; TUV HELLAS (TÜV NORD); QMSCERT (Q-CERT)",
+      "how_the_register_answers": "each body's own scope table, read one by one; a nonsense query returns nothing"
+    },
+    {
+      "country": "HR",
+      "accreditation_body": "HAA",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "site search; 27001 matches and 42001 returns nothing found"
+    },
+    {
+      "country": "HU",
+      "accreditation_body": "NAH",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the accredited-organisations section is an application whose links carry no address"
+    },
+    {
+      "country": "IE",
+      "accreditation_body": "INAB",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the directory prints each body's standards inline; 27001 appears and 42001 does not"
+    },
+    {
+      "country": "IT",
+      "accreditation_body": "ACCREDIA",
+      "answer": "bodies",
+      "bodies": 5,
+      "named": "ACM Cert; Bureau Veritas Italy; CERTIQUALITY; CSQA Certificazioni; RINA Services",
+      "how_the_register_answers": "scope field in the accredited-bodies database; the same query returns 34 for 27001"
+    },
+    {
+      "country": "LT",
+      "accreditation_body": "LA",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the register sits behind a bot check, and we do not bypass bot detection"
+    },
+    {
+      "country": "LU",
+      "accreditation_body": "OLAS",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "lists bodies by accreditation standard rather than scheme; the country has one ISO/IEC 17021-1 body"
+    },
+    {
+      "country": "LV",
+      "accreditation_body": "LATAK",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the site search returns no rows for 27001 either"
+    },
+    {
+      "country": "MT",
+      "accreditation_body": "NAB-Malta",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the site search returns nothing for 27001 either"
+    },
+    {
+      "country": "NL",
+      "accreditation_body": "RvA",
+      "answer": "bodies",
+      "bodies": 3,
+      "named": "DNV Business Assurance; TÜV NORD Nederland; BSI Group The Netherlands",
+      "how_the_register_answers": "the register indexes the scope documents; all three read in the PDF itself"
+    },
+    {
+      "country": "PL",
+      "accreditation_body": "PCA",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "a search over the scope files that answers as data; 27001 returns rows"
+    },
+    {
+      "country": "PT",
+      "accreditation_body": "IPAC",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the directory is organised by scheme and has a section for 27001; there is no 42001 section"
+    },
+    {
+      "country": "RO",
+      "accreditation_body": "RENAR",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "advanced search over accreditation records; 27001 returns eight bodies"
+    },
+    {
+      "country": "SE",
+      "accreditation_body": "Swedac",
+      "answer": "zero",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "register search, published as an API too; 27001 returns seven bodies"
+    },
+    {
+      "country": "SI",
+      "accreditation_body": "Slovenska akreditacija",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the site search returns no register rows for 27001 either"
+    },
+    {
+      "country": "SK",
+      "accreditation_body": "SNAS",
+      "answer": "unanswered",
+      "bodies": 0,
+      "named": "",
+      "how_the_register_answers": "the register is an application that renders nothing to a reader"
+    }
+  ]
+}

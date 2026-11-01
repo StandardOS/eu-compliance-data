@@ -1,0 +1,28 @@
+country,accreditation_body,answer,bodies,named,how_the_register_answers
+AT,Akkreditierung Austria,zero,0,,search over accreditation documents; 27001 returns three bodies
+BE,BELAC,zero,0,,"the register lists the schemes it accredits, and there is no AI management system scheme"
+BG,BAS,unanswered,0,,"filters by field, certificate number, city and name, not by standard"
+CY,CYS-CYSAB,zero,0,,"the published table has no management system certification body at all, only product and inspection"
+CZ,CAI,zero,0,,fulltext search in scopes; 27001 returns bodies
+DE,DAkkS,unanswered,0,,searches bodies rather than scopes; the scope is a PDF per body
+DK,DANAK,unanswered,0,,"free text returns nothing for a standard number, though its business areas include information security and no AI area"
+EE,EAK,unanswered,0,,the keyword search returns no rows for 27001 either
+ES,ENAC,zero,0,,keyword search over scopes; 27001 returns the information security bodies
+FI,FINAS,zero,0,,free text over competence areas; 27001 returns six bodies
+FR,COFRAC,unanswered,0,,the site search reaches news and documents rather than the register
+GR,ESYD,bodies,4,AXIA CERT; Theodynamiki; TUV HELLAS (TÜV NORD); QMSCERT (Q-CERT),"each body's own scope table, read one by one; a nonsense query returns nothing"
+HR,HAA,zero,0,,site search; 27001 matches and 42001 returns nothing found
+HU,NAH,unanswered,0,,the accredited-organisations section is an application whose links carry no address
+IE,INAB,zero,0,,the directory prints each body's standards inline; 27001 appears and 42001 does not
+IT,ACCREDIA,bodies,5,ACM Cert; Bureau Veritas Italy; CERTIQUALITY; CSQA Certificazioni; RINA Services,scope field in the accredited-bodies database; the same query returns 34 for 27001
+LT,LA,unanswered,0,,"the register sits behind a bot check, and we do not bypass bot detection"
+LU,OLAS,unanswered,0,,lists bodies by accreditation standard rather than scheme; the country has one ISO/IEC 17021-1 body
+LV,LATAK,unanswered,0,,the site search returns no rows for 27001 either
+MT,NAB-Malta,unanswered,0,,the site search returns nothing for 27001 either
+NL,RvA,bodies,3,DNV Business Assurance; TÜV NORD Nederland; BSI Group The Netherlands,the register indexes the scope documents; all three read in the PDF itself
+PL,PCA,zero,0,,a search over the scope files that answers as data; 27001 returns rows
+PT,IPAC,zero,0,,the directory is organised by scheme and has a section for 27001; there is no 42001 section
+RO,RENAR,zero,0,,advanced search over accreditation records; 27001 returns eight bodies
+SE,Swedac,zero,0,,"register search, published as an API too; 27001 returns seven bodies"
+SI,Slovenska akreditacija,unanswered,0,,the site search returns no register rows for 27001 either
+SK,SNAS,unanswered,0,,the register is an application that renders nothing to a reader

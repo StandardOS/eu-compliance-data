@@ -1,0 +1,20 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 StandardOS (RMS Systems, CVR 34282668, Denmark)
+
+The datasets in this folder are made available under the Creative Commons
+Attribution 4.0 International licence. You are free to share and adapt them for
+any purpose, including commercially, provided you give appropriate credit with a
+link to https://getstandardos.com or to this repository.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution looks like this:
+
+  ISO 9001 transition dates, StandardOS, https://getstandardos.com, CC BY 4.0
+
+The underlying regulations are EU law and are not subject to copyright. The
+mappings, summaries, evidence prompts and caveats are the work of StandardOS.
+
+These files are data. The StandardOS tools published separately, cra-lint and
+its GitHub action, are software and are MIT.

@@ -1,0 +1,15 @@
+date,key,what,provision
+2024-07-12,published,Regulation (EU) 2024/1689 published in the Official Journal,"OJ L, 12.7.2024"
+2025-02-02,chaptersIandII,"Chapters I and II apply: subject matter, definitions, prohibited practices, Article 4 AI literacy",Article 113(a)
+2025-08-02,generalPurpose,Chapter V (general-purpose AI models) and the governance chapters apply,Article 113(b)
+2026-07-08,omnibusSigned,"The Digital Omnibus on AI, Regulation (EU) 2026/1744, signed",Regulation (EU) 2026/1744
+2026-07-24,omnibusPublished,Regulation (EU) 2026/1744 published in the Official Journal,Regulation (EU) 2026/1744
+2026-07-27,articles102to110,"Articles 102 to 110, the amendments to other Union acts, apply",Article 113(c)
+2026-07-27,omnibusInForce,Regulation (EU) 2026/1744 in force,Regulation (EU) 2026/1744
+2026-08-02,general,"General date of application, Article 50 transparency included",Article 113
+2026-12-02,article50Transition,Article 50(2) for systems already on the market on 2 August 2026,Article 111(4) as amended
+2026-12-02,article5NewProhibitions,The two prohibitions inserted in 2026 apply,"Article 5(1) points (ba) and (bb), Article 5(1a), (1b); Article 113(a) as amended"
+2027-09-02,postMarketTemplateBy,Commission guidance and template for the post-market monitoring plan due,Article 72(3) as amended
+2027-12-02,highRiskAnnexIII,Chapter III Sections 1 to 3 apply to Annex III high-risk systems,Article 113 as amended by Regulation (EU) 2026/1744
+2028-08-02,highRiskAnnexI,Chapter III Sections 1 to 3 apply to Annex I high-risk systems,Article 113 as amended by Regulation (EU) 2026/1744
+2030-08-02,publicAuthoritiesBy,High-risk systems intended for use by public authorities comply whatever their market date,Article 111(2)

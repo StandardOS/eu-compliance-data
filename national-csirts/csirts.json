@@ -1,0 +1,375 @@
+[
+  {
+    "country": "AT",
+    "country_name": "Austria",
+    "national_csirt": "CERT.at",
+    "national_csirt_name": "Computer Emergency Response Team Austria",
+    "national_csirt_website": "https://www.cert.at",
+    "cra_coordinator": "CERT.at",
+    "cra_coordinator_name": "Computer Emergency Response Team Austria",
+    "cra_coordinator_contact": [
+      "https://www.cert.at/de/ueber-uns/kontakt/",
+      "https://www.cert.at/en/about-us/contact/"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "BE",
+    "country_name": "Belgium",
+    "national_csirt": "CCB",
+    "national_csirt_name": "Centre for Cybersecurity Belgium",
+    "national_csirt_website": "https://ccb.belgium.be",
+    "cra_coordinator": "CCB",
+    "cra_coordinator_name": "Centre for Cybersecurity Belgium",
+    "cra_coordinator_contact": ["https://ccb.belgium.be/contacts"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "BG",
+    "country_name": "Bulgaria",
+    "national_csirt": "CERT Bulgaria",
+    "national_csirt_name": "CERT Bulgaria",
+    "national_csirt_website": "https://govcert.bg",
+    "cra_coordinator": "CERT Bulgaria",
+    "cra_coordinator_name": "CERT Bulgaria",
+    "cra_coordinator_contact": ["https://www.govcert.bg/en/contact-us/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "HR",
+    "country_name": "Croatia",
+    "national_csirt": "CERT.hr",
+    "national_csirt_name": "Croatian National CERT",
+    "national_csirt_website": "https://www.cert.hr",
+    "cra_coordinator": "NCSC-HR",
+    "cra_coordinator_name": "National Cyber Security Centre of Croatia",
+    "cra_coordinator_contact": ["https://ncsc.hr/hr/kontakt"],
+    "cra_coordinator_differs": "yes",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "CY",
+    "country_name": "Cyprus",
+    "national_csirt": "CSIRT-CY",
+    "national_csirt_name": "National CSIRT-CY",
+    "national_csirt_website": "https://csirt.cy/",
+    "cra_coordinator": "CSIRT-CY",
+    "cra_coordinator_name": "National CSIRT-CY",
+    "cra_coordinator_contact": ["https://www.csirt.cy/en/contact-us"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "CZ",
+    "country_name": "Czech Republic",
+    "national_csirt": "CSIRT.CZ",
+    "national_csirt_name": "CSIRT.CZ",
+    "national_csirt_website": "https://www.csirt.cz/",
+    "cra_coordinator": "NÚKIB",
+    "cra_coordinator_name": "National Cyber and Information Security Agency",
+    "cra_coordinator_contact": ["https://nukib.gov.cz/cs/kontakty/"],
+    "cra_coordinator_differs": "yes",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "DK",
+    "country_name": "Denmark",
+    "national_csirt": "FE DDIS",
+    "national_csirt_name": "Danish Defence Intelligence Service, formerly CFCS",
+    "national_csirt_website": "https://www.fe-ddis.dk/",
+    "cra_coordinator": "FE DDIS",
+    "cra_coordinator_name": "Danish Defence Intelligence Service, formerly CFCS",
+    "cra_coordinator_contact": [
+      "https://www.fe-ddis.dk/da/arbejdsomrade-a/Cybertruslen/"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "EE",
+    "country_name": "Estonia",
+    "national_csirt": "CERT-EE",
+    "national_csirt_name": "CERT Estonia",
+    "national_csirt_website": "https://www.cert.ee/",
+    "cra_coordinator": "CERT-EE",
+    "cra_coordinator_name": "CERT Estonia",
+    "cra_coordinator_contact": [
+      "https://www.ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "FI",
+    "country_name": "Finland",
+    "national_csirt": "NCSC-FI",
+    "national_csirt_name": "National Cyber Security Centre Finland",
+    "national_csirt_website": "https://www.kyberturvallisuuskeskus.fi/en",
+    "cra_coordinator": "NCSC-FI",
+    "cra_coordinator_name": "National Cyber Security Centre Finland",
+    "cra_coordinator_contact": [
+      "https://www.kyberturvallisuuskeskus.fi/en/contact-us/contact"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "FR",
+    "country_name": "France",
+    "national_csirt": "CERT-FR",
+    "national_csirt_name": "CERT-FR",
+    "national_csirt_website": "https://www.cert.ssi.gouv.fr",
+    "cra_coordinator": "CERT-FR",
+    "cra_coordinator_name": "CERT-FR",
+    "cra_coordinator_contact": ["https://www.cert.ssi.gouv.fr/contact-us/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "DE",
+    "country_name": "Germany",
+    "national_csirt": "CERT-Bund",
+    "national_csirt_name": "CERT-Bund at the BSI",
+    "national_csirt_website": "https://www.bsi.bund.de/EN/",
+    "cra_coordinator": "CERT-Bund",
+    "cra_coordinator_name": "CERT-Bund at the BSI",
+    "cra_coordinator_contact": [
+      "https://www.bsi.bund.de/CERT-Bund/",
+      "https://www.bsi.bund.de/EN/CERT-Bund/"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "GR",
+    "country_name": "Greece",
+    "national_csirt": "EL-CSIRT",
+    "national_csirt_name": "National Cyber Security Authority CSIRT",
+    "national_csirt_website": "https://cyber.gov.gr/el-csirt/",
+    "cra_coordinator": "EL-CSIRT",
+    "cra_coordinator_name": "National Cyber Security Authority CSIRT",
+    "cra_coordinator_contact": ["https://cyber.gov.gr/el-csirt/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "HU",
+    "country_name": "Hungary",
+    "national_csirt": "NCSC Hungary",
+    "national_csirt_name": "National Cyber Security Center of Hungary",
+    "national_csirt_website": "https://nki.gov.hu",
+    "cra_coordinator": "NCSC Hungary",
+    "cra_coordinator_name": "National Cyber Security Center of Hungary",
+    "cra_coordinator_contact": ["https://ncsc.gov.hu"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "IE",
+    "country_name": "Ireland",
+    "national_csirt": "CSIRT-IE",
+    "national_csirt_name": "National Cyber Security Centre Ireland",
+    "national_csirt_website": "https://www.ncsc.gov.ie/CSIRT/",
+    "cra_coordinator": "CSIRT-IE",
+    "cra_coordinator_name": "National Cyber Security Centre Ireland",
+    "cra_coordinator_contact": ["https://www.ncsc.gov.ie/cra/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "IT",
+    "country_name": "Italy",
+    "national_csirt": "CSIRT Italia",
+    "national_csirt_name": "Computer Security Incident Response Team Italia",
+    "national_csirt_website": "https://csirt.gov.it/",
+    "cra_coordinator": "CSIRT Italia",
+    "cra_coordinator_name": "Computer Security Incident Response Team Italia",
+    "cra_coordinator_contact": [
+      "https://www.acn.gov.it/portale/csirt-italia/chi-siamo"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "LV",
+    "country_name": "Latvia",
+    "national_csirt": "CERT.LV",
+    "national_csirt_name": "Information Technologies Security Incident Response Institution",
+    "national_csirt_website": "https://www.cert.lv/",
+    "cra_coordinator": "CERT.LV",
+    "cra_coordinator_name": "Information Technologies Security Incident Response Institution",
+    "cra_coordinator_contact": [
+      "https://cert.lv/uploads/par-mums/RFC_2350_CERT-LV_21072025.pdf"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "LT",
+    "country_name": "Lithuania",
+    "national_csirt": "CERT-LT",
+    "national_csirt_name": "National CERT of Lithuania",
+    "national_csirt_website": "https://www.nksc.lt/en/",
+    "cra_coordinator": "CERT-LT",
+    "cra_coordinator_name": "National CERT of Lithuania",
+    "cra_coordinator_contact": ["https://www.nksc.lt/kontaktai.html"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "LU",
+    "country_name": "Luxembourg",
+    "national_csirt": "CIRCL",
+    "national_csirt_name": "Computer Incident Response Center Luxembourg",
+    "national_csirt_website": "https://www.circl.lu/",
+    "cra_coordinator": "CIRCL",
+    "cra_coordinator_name": "Computer Incident Response Center Luxembourg",
+    "cra_coordinator_contact": [
+      "https://www.circl.lu/pub/coordinated-vulnerability-disclosure/"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "LU",
+    "country_name": "Luxembourg",
+    "national_csirt": "GOVCERT.LU",
+    "national_csirt_name": "Governmental CERT of Luxembourg",
+    "national_csirt_website": "https://www.govcert.lu",
+    "cra_coordinator": "CIRCL",
+    "cra_coordinator_name": "Computer Incident Response Center Luxembourg",
+    "cra_coordinator_contact": [
+      "https://www.circl.lu/pub/coordinated-vulnerability-disclosure/"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "MT",
+    "country_name": "Malta",
+    "national_csirt": "MT-CSIRT",
+    "national_csirt_name": "MT-CSIRT",
+    "national_csirt_website": "https://mita.gov.mt",
+    "cra_coordinator": "MT-CSIRT",
+    "cra_coordinator_name": "MT-CSIRT",
+    "cra_coordinator_contact": ["https://www.mita.gov.mt"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "NL",
+    "country_name": "Netherlands",
+    "national_csirt": "NCSC-NL",
+    "national_csirt_name": "Nationaal Cyber Security Centrum",
+    "national_csirt_website": "https://www.ncsc.nl",
+    "cra_coordinator": "NCSC-NL",
+    "cra_coordinator_name": "Nationaal Cyber Security Centrum",
+    "cra_coordinator_contact": ["https://www.ncsc.nl/contact"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "PL",
+    "country_name": "Poland",
+    "national_csirt": "CERT Polska",
+    "national_csirt_name": "CERT Polska",
+    "national_csirt_website": "https://www.cert.pl/",
+    "cra_coordinator": "CERT Polska",
+    "cra_coordinator_name": "CERT Polska",
+    "cra_coordinator_contact": ["https://cert.pl/en/cvd/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "PL",
+    "country_name": "Poland",
+    "national_csirt": "CSIRT-GOV",
+    "national_csirt_name": "Governmental CSIRT of Poland",
+    "national_csirt_website": "https://csirt.gov.pl/",
+    "cra_coordinator": "CERT Polska",
+    "cra_coordinator_name": "CERT Polska",
+    "cra_coordinator_contact": ["https://cert.pl/en/cvd/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "PT",
+    "country_name": "Portugal",
+    "national_csirt": "CERT.PT",
+    "national_csirt_name": "CERT.PT at the CNCS",
+    "national_csirt_website": "https://www.cncs.gov.pt/",
+    "cra_coordinator": "CERT.PT",
+    "cra_coordinator_name": "CERT.PT at the CNCS",
+    "cra_coordinator_contact": ["https://www.cncs.gov.pt/pt/certpt/rfc-2350"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "RO",
+    "country_name": "Romania",
+    "national_csirt": "DNSC",
+    "national_csirt_name": "Romanian National Cyber Security Directorate",
+    "national_csirt_website": "https://dnsc.ro",
+    "cra_coordinator": "DNSC",
+    "cra_coordinator_name": "Romanian National Cyber Security Directorate",
+    "cra_coordinator_contact": ["https://www.dnsc.ro/contact"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "SK",
+    "country_name": "Slovakia",
+    "national_csirt": "SK-CERT",
+    "national_csirt_name": "SK-CERT",
+    "national_csirt_website": "https://www.sk-cert.sk",
+    "cra_coordinator": "SK-CERT",
+    "cra_coordinator_name": "SK-CERT",
+    "cra_coordinator_contact": ["https://www.sk-cert.sk"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "SI",
+    "country_name": "Slovenia",
+    "national_csirt": "SI-CERT",
+    "national_csirt_name": "Slovenian Computer Emergency Response Team",
+    "national_csirt_website": "https://www.cert.si/",
+    "cra_coordinator": "SI-CERT",
+    "cra_coordinator_name": "Slovenian Computer Emergency Response Team",
+    "cra_coordinator_contact": ["https://www.cert.si/en/about-si-cert/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "ES",
+    "country_name": "Spain",
+    "national_csirt": "INCIBE-CERT",
+    "national_csirt_name": "INCIBE-CERT",
+    "national_csirt_website": "https://www.incibe-cert.es/",
+    "cra_coordinator": "INCIBE-CERT",
+    "cra_coordinator_name": "INCIBE-CERT",
+    "cra_coordinator_contact": [
+      "https://www.incibe.es/incibe-cert/incidentes/respuesta-incidentes",
+      "https://www.incibe.es/en/incibe-cert/incidents/incident-handling",
+      "https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/asignacion-publicacion-cve",
+      "https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-assignment-publication"
+    ],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  },
+  {
+    "country": "SE",
+    "country_name": "Sweden",
+    "national_csirt": "CERT-SE",
+    "national_csirt_name": "CERT-SE",
+    "national_csirt_website": "https://www.cert.se",
+    "cra_coordinator": "CERT-SE",
+    "cra_coordinator_name": "CERT-SE",
+    "cra_coordinator_contact": ["https://cert.se/rapportera/"],
+    "cra_coordinator_differs": "no",
+    "cra_single_reporting_platform": "https://portal.cra-srp.enisa.europa.eu/"
+  }
+]
